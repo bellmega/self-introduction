@@ -7,7 +7,7 @@ Hello, I am bellmega.
 - org: none
 - account: bellmega
 
-## タスク
+## 今日のタスク
 - [ ] GitHub アカウントを作成する
 - [ ] Pull Request を作成する
 - [ ] コードレビューを行う
